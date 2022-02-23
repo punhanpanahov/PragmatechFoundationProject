@@ -1,0 +1,24 @@
+.music {
+    border:1px solid red;
+    background: grey;
+
+}
+
+
+.music-items {
+    width: 500;
+    margin: 1px 116px;
+    
+}
+    
+
+
+.music-items-element {
+    border:1px solid blue;
+    display: inline-block;
+    width: 250px;
+    height: 400px;
+    margin: 0px 5px;
+ 
+
+}
