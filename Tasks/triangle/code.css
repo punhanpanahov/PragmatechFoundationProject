@@ -1,7 +1,8 @@
 div{
     width:0;
     height:0;
-    border-right:50px solid transparent;
-    border-left: 50px solid transparent;
-    border-top:100px solid green;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-bottom:80px solid green;
+    margin: 0px auto;
     }
