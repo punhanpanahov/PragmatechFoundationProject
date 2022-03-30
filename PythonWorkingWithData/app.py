@@ -112,7 +112,7 @@
 #     print(telebeler[i])
 #     i+=1
 #for example
-# for i in (len(telebeler)):
+# for i in range(len(telebeler)):
 #     print(telebeler[i])
    
 
@@ -136,5 +136,5 @@
     
 # for example
 # 
-# for i in (len(telebeler["adlar"])):
+# for i in range(len(telebeler["adlar"])):
 #     print(telebeler["adlar"][i],telebeler["soyadlar"][i])
